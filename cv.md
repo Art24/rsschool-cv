@@ -1,5 +1,7 @@
 My name is Artem Maisinovich;
-Contact info-p.+375291583020 email maisinovich@inbox.ru;
+Contact 
+        info-p.+375291583020 
+        email maisinovich@inbox.ru;
 Summary-I want to become a programmer to make money and get pleasure from it. Because it can become my hobby;
 Skills=My first programming language was c ++. Now I decided to learn javasript on my own with the help of the community RS School;
 Code examples-is progect hello world!
