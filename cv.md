@@ -1,6 +1,6 @@
 # My CV#
 
-Name: Artsiom Maisinovich
+_Name: Artsiom Maisinovich_
 Address Nemiga: 8,89 Minsk
 Phone number: home: +375291583020
 Marital status: Single
